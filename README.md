@@ -5,7 +5,7 @@
 | Number | Description                                                                                              | Live Link                                                        |
 | ------ | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 01     | [Etch-a-Sketch](https://github.com/Gxgxn/etch-a-sketch)                                                  | [Live Demo](https://etch-a-sketch-omega.vercel.app/)             |
-| 02     | [Calculator-Javascript](https://github.com/Gxgxn/calculator-javascript)                                  | [Live Demo](http://nameconversionjs.vercel.app/)                 |
+| 02     | [Calculator-Javascript](https://github.com/Gxgxn/calculator-javascript)                                  | [Live Demo](http://calculator-javascript-liard.vercel.app/)                 |
 | 03     | [AutoComplete](https://github.com/Gxgxn/autocomplete-demo-)                                              | [Live Demo](https://autocomplete-demo-beta.vercel.app/)          |
 | 04     | [Memory Card Game](https://github.com/Gxgxn/memory-Card-Game)                                            | [Live Demo](http://memorygame-sigma.vercel.app/)                 |
 | 05     | [Color Palette Generator](https://github.com/Gxgxn/colorpicker-JS)                                       | [Live Demo](https://colorpicker-eta.vercel.app/)                 |
